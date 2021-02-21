@@ -1,1 +1,545 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T12:03:09.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="MY8gfc52aHjTCAxxadnm" version="14.4.2" type="device"><diagram id="IibwhsUdMYKJf8pqr-UW" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-21T17:14:32.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="7pbjROPZCbYO8Pdf3GaF" version="14.4.2" type="github">
+  <diagram id="IibwhsUdMYKJf8pqr-UW" name="Page-1">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SDGDesWbccRSjYrfOrNV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="80" y="80" width="640" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-2" value="Login" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="280" y="210" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-3" value="Mot de passe" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="280" y="270" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-4" value="Se connecter" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="150" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-5" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="394" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-6" value="Sutura" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="80" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-7" value="Pour se connecter, il faut devenir membre en satisfaisant toutes les modalités (accepter les conditions générales et soumettre un dossier complet valide).&lt;br&gt;Les informations de connexion seront envoyés aux nouveaux membres dans les meilleurs délais." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="360" width="650" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="68" y="530" width="630" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-9" value="BIENVENUE DANS L&#39;ESPACE D&#39;INSCRIPTION" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="264" y="550" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-10" value="Sutura" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="101" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-11" value="Prénom(s)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="271" y="650" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-12" value="Nom" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="271" y="690" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-13" value="Pays d&#39;origine(liste déroulante)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="272" y="770" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-14" value="Ville d&#39;études(liste déroulante)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="272" y="810" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-16" value="Établissement d&#39;études" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="272" y="850" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-17" value="Filière" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="271" y="890" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-18" value="Nombre d&#39;années au Maroc(liste déroulante de 1 - 10)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="930" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-19" value="N° de téléphone" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="970" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-20" value="Email" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="1010" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-24" value="ENVOYER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1110" width="77" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="271" y="1050" width="20" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-27" value="Accepter les conditions générales d&#39;utilisation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1070" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-28" value="Lire les conditions générales d&#39;utilisation-ceci est un lien qui fait ouvrir un autre onglet du navigateur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="501.5" y="1150" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-29" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1280" width="630" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-30" value="Accueil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-31" value="Faire un prêt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-32" value="Déclarer un remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-33" value="Messagerie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-34" value="Déconnexion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-35" value="Bonjour/Bonsoir Ambroise" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1330" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-36" value="État de la caisse&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="149" y="1390" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1430" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="189" y="1430" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="229" y="1430" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="269" y="1430" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-41" value="&lt;i&gt;&lt;u&gt;Messagerie&lt;br&gt;&lt;/u&gt;&lt;/i&gt;&lt;br&gt;Monsieur TINE, veuillez vous acquitter du paiement car votre échéance approche" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="154" y="1490" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-42" value="Faire un prêt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="155" y="1620" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-43" value="Nombre de prêt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1475" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-45" value="2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="1475" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-46" value="Remboursement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1500" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-47" value="1/2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="1500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-49" value="Échéance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1525" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-50" value="10/04/2021" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="1525" width="101.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-51" value="Montant souhaité" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="149" y="1673.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-53" value="Santé/Autres urgences" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="1673.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-54" value="Échéance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="149" y="1720" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-57" value="Envoyer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="314" y="1910" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-58" value="Demande en cours de traitement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1550" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-59" value="Néant" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="571.5" y="1550" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-60" value="Déclarer un remboursement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1620" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-61" value="Date&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="531.5" y="1673.5" width="120" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-62" value="Joindre un justificatif" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-63" value="Envoyer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="554" y="1760" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-66" value="Accueil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-67" value="Faire un prêt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-68" value="Déclarer un remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-69" value="Messagerie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-70" value="Accueil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-71" value="Faire un prêt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-72" value="Déclarer un remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-73" value="Messagerie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-74" value="Déconnexion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-75" value="Bonjour/Bonsoir Ambroise" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1330" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-80" value="&lt;i&gt;&lt;u&gt;Messagerie&lt;br&gt;&lt;/u&gt;&lt;/i&gt;&lt;br&gt;Monsieur TINE, veuillez vous acquitter du paiement car votre échéance approche" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="154" y="1490" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-85" value="Accueil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-86" value="Faire un prêt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-87" value="Déclarer un remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-88" value="Messagerie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-89" value="Déconnexion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-90" value="Bonjour/Bonsoir Ambroise" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1330" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-95" value="&lt;i&gt;&lt;u&gt;Messagerie&lt;br&gt;&lt;/u&gt;&lt;/i&gt;&lt;br&gt;Monsieur TINE, veuillez vous acquitter du paiement car votre échéance approche" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="154" y="1490" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-103" value="Faire un prêt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="155" y="1620" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-104" value="Déclarer un remboursement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1620" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-106" value="Joindre un justificatif" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-107" value="Envoyer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="554" y="1760" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-108" value="Accueil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-109" value="Faire un prêt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-110" value="Déclarer un remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-111" value="Messagerie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-112" value="Déconnexion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-113" value="Bonjour/Bonsoir Ambroise" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1330" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-118" value="&lt;i&gt;&lt;u&gt;Messagerie&lt;br&gt;&lt;/u&gt;&lt;/i&gt;&lt;br&gt;Monsieur TINE, veuillez vous acquitter du paiement car votre échéance approche" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1490" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-126" value="Faire un prêt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1620" width="255" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-127" value="Déclarer un remboursement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1620" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-129" value="Joindre un justificatif" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-130" value="Envoyer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="554" y="1760" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-132" value="Justificatifs-pas obligatoire" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="1720" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-133" value="Commentaires" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="149" y="1820" width="256" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-135" value="Sutura" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-136" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="75" y="1970" width="640" height="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-138" value="Traitements" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="176" y="1990" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-139" value="Adhérents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="94" y="1990" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-140" value="Messagerie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="249" y="1990" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-141" value="Statistiques" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="324" y="1990" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-157" value="Tableau de bord" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1390" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-165" value="Tableau de bord/Résumé" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="450" y="2050" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-166" value="Nombres d&#39;adhérents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="455" y="2090" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-167" value="300" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="2090" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-168" value="Nombre de prêts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="455" y="2170" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#76608a;strokeColor=#432D57;" parent="1" source="SDGDesWbccRSjYrfOrNV-169" target="SDGDesWbccRSjYrfOrNV-206" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="2470" />
+              <mxPoint x="360" y="2470" />
+              <mxPoint x="360" y="2555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-169" value="1-Ambroise Ngagne TINE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2340" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-170" value="Nombres de pays" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="455" y="2130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SDGDesWbccRSjYrfOrNV-171" target="SDGDesWbccRSjYrfOrNV-211" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-171" value="Plus de détails" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="561.5" y="2410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-172" value="13" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="611.5" y="2130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-177" value="25" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="651.5" y="2170" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-178" value="Nombre de remboursement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="456" y="2210" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-179" value="Reste" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="456" y="2250" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-180" value="Capital" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="456" y="2290" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-181" value="Montant actuel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="456" y="2370" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-182" value="Montant total prêté" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="456" y="2330" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-184" value="50.000 DH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="558" y="2290" width="132" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-185" value="30.000 DH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="561.5" y="2330" width="128.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-186" value="45.000 DH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="2370" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-187" value="20" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="651.5" y="2210" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-188" value="5" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="2250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-190" value="Traitements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="94" y="2030" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-191" value="Demandes d&#39;inscription" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="95" y="2070" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-192" value="Demandes de prêt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="94" y="2110" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-193" value="Déclarations de remboursement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="94" y="2150" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-194" value="0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="2150" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-195" value="1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="284" y="2110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-196" value="6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="2070" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-197" value="Messagerie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="154" y="2270" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-198" value="0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="284" y="2190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-199" value="Déconnexion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="597.5" y="1990" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-200" value="Equipe de gestion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2308" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-201" value="2-Papa Ousmane FAYE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2370" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-202" value="3-xxxxxxxxxxxxxxxxxxx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2400" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-203" value="4-xxxxxxxxxxxxxxxxxxx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2430" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-204" value="5-xxxxxxxxxxxxxxxxxxx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2460" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-205" value="Afficher la liste complète" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="210" y="2490" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-206" value="En cliquant sur une personne, on voit ses coordonnées, son rôle et sa photo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2540" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-211" value="En cliquant, se dirige vers un tableau de bord très détaillé" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="475" y="2490" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-213" value="1- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2650" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-214" value="Demandes de prêts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2620" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-215" value="2- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2680" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-216" value="4- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2740" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-217" value="3- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2710" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-219" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="SDGDesWbccRSjYrfOrNV-195" target="SDGDesWbccRSjYrfOrNV-214" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="2380" as="sourcePoint" />
+            <mxPoint x="280" y="2330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="2440" />
+              <mxPoint x="410" y="2600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-220" value="Demandes d&#39;inscription" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="99" y="2810" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-223" value="2- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2870" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-224" value="1- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2840" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-225" value="3- Prénom Nom---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="3080" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-226" value="4- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2930" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-232" value="Déclarations de remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="99" y="2990" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-233" value="1- Prénom Nom---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="99" y="3020" width="311" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-234" value="2- Prénom Nom---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="99" y="3050" width="311" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-235" value="3- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="2900" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SDGDesWbccRSjYrfOrNV-236" value="4- Prénom Nom---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="3110" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nPjhEHFaOwcL7UX8rbgF-3" value="Joindre une photo du passeport de la carte de séjour" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="149" y="1770" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nPjhEHFaOwcL7UX8rbgF-4" value="Joindre un RIB- Facultatif" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="1770" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-1" value="Changer de mot de passe" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="629" y="240" width="78.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-2" value="Mot de passe oublié?&lt;br&gt;Contacter l&#39;administration!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="587.5" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-3" value="Après vérification de données d&#39;inscription dans la partie administration, la validation provoque l&#39;envoie du mot de passe par email" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1100" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-4" value="Montant dû" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="421.5" y="1590" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-6" value="600&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="581.5" y="1590" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-7" value="DH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="622.5" y="1590" width="27.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-8" value="SuperAdmin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="496" y="1990" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-9" value="Cotisation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1430" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-10" value="200" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="1430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-11" value="DH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1430" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-12" value="Expire le:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1450" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-13" value="31/12/2021" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1450" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6pL3NNsehdov1yfRttMt-14" value="Homme/Femme(liste déroulante)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="730" width="226" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hya-TPy_c2ZP0WOWe1SL-1" value="Déclarations de cotisation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="94" y="2190" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hya-TPy_c2ZP0WOWe1SL-2" value="Déclarations de cotisation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="100" y="3170" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hya-TPy_c2ZP0WOWe1SL-3" value="1- Prénom Nom---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="3200" width="311" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hya-TPy_c2ZP0WOWe1SL-4" value="2- Prénom Nom---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="3230" width="311" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hya-TPy_c2ZP0WOWe1SL-5" value="3- Prénom Nom---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="101" y="3260" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hya-TPy_c2ZP0WOWe1SL-6" value="4- Prénom Nom---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="101" y="3290" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hya-TPy_c2ZP0WOWe1SL-7" value="Ajouter une cotisation/&lt;br&gt;remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="405" y="1990" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EzgY_Jlq-dmY2WDkP3PC-1" value="Retards de paiement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="94" y="2230" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EzgY_Jlq-dmY2WDkP3PC-2" value="0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="2230" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
