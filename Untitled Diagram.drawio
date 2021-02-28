@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T20:51:41.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Psu2IntO7sGK7VvpC5vp" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-28T21:45:37.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="z1KXTO0JHAdOX6DN-5Qh" version="14.4.3" type="github">
   <diagram id="Dze1Ma6fVJCJLbmEjT1m" name="Page-1">
-    <mxGraphModel dx="1554" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1088" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,16 +134,16 @@
             <mxPoint x="620" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoM2ksk7p5f8HjakFHzy-32" value="Quand un administrateur bloque&amp;nbsp;&lt;br&gt;une demande à l&#39;état élu" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zoM2ksk7p5f8HjakFHzy-32" value="Quand un administrateur bloque&amp;nbsp;&lt;br&gt;une demande à l&#39;état élu" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="560" y="290" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zoM2ksk7p5f8HjakFHzy-33" value="Quand un demandeur&lt;br&gt;a perçu la somme demandée" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zoM2ksk7p5f8HjakFHzy-33" value="Quand un demandeur&lt;br&gt;a perçu la somme demandée" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="830" y="290" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zoM2ksk7p5f8HjakFHzy-34" value="Quand une demande à l&#39;état prêt a une&amp;nbsp;&lt;br&gt;priorité supérieure à celle à un état élu&lt;br&gt;et dont l&#39;échange respecte l&#39;état de la caisse&lt;br&gt;-sans situation favorable" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zoM2ksk7p5f8HjakFHzy-34" value="Quand une demande à l&#39;état prêt a une&amp;nbsp;&lt;br&gt;priorité supérieure à celle à un état élu&lt;br&gt;et dont l&#39;échange respecte l&#39;état de la caisse&lt;br&gt;-sans situation favorable" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="560" width="340" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="zoM2ksk7p5f8HjakFHzy-35" value="état de disponibilité de la caisse supérieur à un certain seuil" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zoM2ksk7p5f8HjakFHzy-35" value="état de disponibilité de la caisse supérieur à un certain seuil" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="350" y="140" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zoM2ksk7p5f8HjakFHzy-36" value="" style="endArrow=classic;html=1;strokeColor=#0000CC;fillColor=#FF2146;exitX=0.49;exitY=0.086;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zoM2ksk7p5f8HjakFHzy-35" edge="1">
@@ -152,7 +152,7 @@
             <mxPoint x="480" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoM2ksk7p5f8HjakFHzy-37" value="passage à un état plus&amp;nbsp;&lt;br&gt;favorable en cas de&amp;nbsp;&lt;br&gt;situation favorable" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zoM2ksk7p5f8HjakFHzy-37" value="passage à un état plus&amp;nbsp;&lt;br&gt;favorable en cas de&amp;nbsp;&lt;br&gt;situation favorable" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="410" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zoM2ksk7p5f8HjakFHzy-38" value="" style="endArrow=classic;html=1;strokeColor=#0000CC;fillColor=#FF2146;exitX=0.746;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zoM2ksk7p5f8HjakFHzy-37" edge="1">
@@ -198,6 +198,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="170" as="sourcePoint" />
             <mxPoint x="90" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fFUJi8Z9paA_NvL7xK6_-1" value="Les demandes pas sérieuses&lt;br&gt;sont directement&amp;nbsp;&lt;br&gt;supprimées" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="360" y="750" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fFUJi8Z9paA_NvL7xK6_-2" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.591;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fFUJi8Z9paA_NvL7xK6_-1" target="vxX3c3MN7XvkiOVMZcCa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="970" as="sourcePoint" />
+            <mxPoint x="510" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
