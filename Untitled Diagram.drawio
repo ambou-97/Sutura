@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T23:04:30.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="40J2flbUNrDA-zOkLpm7" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T23:19:09.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="hrm7F5Z8X9IK77IOulf2" version="14.4.3" type="github">
   <diagram id="Dze1Ma6fVJCJLbmEjT1m" name="Page-1">
-    <mxGraphModel dx="2755" dy="1455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2204" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,12 +67,6 @@
             <mxPoint x="370" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zoM2ksk7p5f8HjakFHzy-15" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="zoM2ksk7p5f8HjakFHzy-6" target="zoM2ksk7p5f8HjakFHzy-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="280" as="sourcePoint" />
-            <mxPoint x="800" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zoM2ksk7p5f8HjakFHzy-16" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;" parent="1" source="zoM2ksk7p5f8HjakFHzy-2" target="zoM2ksk7p5f8HjakFHzy-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="150" as="sourcePoint" />
@@ -121,15 +115,6 @@
             <mxPoint x="830" y="1160" as="sourcePoint" />
             <mxPoint x="830" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="zoM2ksk7p5f8HjakFHzy-31" value="" style="endArrow=classic;html=1;strokeColor=#0000CC;fillColor=#FF2146;exitX=0.455;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zoM2ksk7p5f8HjakFHzy-32" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="280" as="sourcePoint" />
-            <mxPoint x="640" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zoM2ksk7p5f8HjakFHzy-32" value="Quand un administrateur bloque&amp;nbsp;&lt;br&gt;une demande à l&#39;état élu" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="590" y="320" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zoM2ksk7p5f8HjakFHzy-33" value="Quand un demandeur&lt;br&gt;a perçu la somme demandée" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="820" y="95" width="250" height="80" as="geometry" />
