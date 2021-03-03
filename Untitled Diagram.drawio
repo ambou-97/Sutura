@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T00:10:16.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="qi0oKstF2g3N18KaLXzy" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T00:13:30.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Q7Akr6WATaNXu29nSWCL" version="14.4.3" type="github">
   <diagram id="Dze1Ma6fVJCJLbmEjT1m" name="Page-1">
     <mxGraphModel dx="1296" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
         <mxCell id="fFUJi8Z9paA_NvL7xK6_-1" value="Les demandes pas sérieuses&lt;br&gt;sont directement&amp;nbsp;&lt;br&gt;supprimées" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="350" y="830" width="220" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="fFUJi8Z9paA_NvL7xK6_-2" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="fFUJi8Z9paA_NvL7xK6_-1" target="vxX3c3MN7XvkiOVMZcCa-1" edge="1">
+        <mxCell id="fFUJi8Z9paA_NvL7xK6_-2" value="" style="endArrow=classic;html=1;entryX=0.924;entryY=0.252;entryDx=0;entryDy=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="fFUJi8Z9paA_NvL7xK6_-1" target="vxX3c3MN7XvkiOVMZcCa-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="970" as="sourcePoint" />
             <mxPoint x="510" y="920" as="targetPoint" />
@@ -182,9 +182,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DypBDRD715nbuW2u8itu-6" value="Aussi contient toutes les&lt;br&gt;demandes supprimées&lt;br&gt;quel que soit son état" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="860" y="870" width="230" height="140" as="geometry" />
+          <mxGeometry x="592" y="820" width="230" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="DypBDRD715nbuW2u8itu-7" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DypBDRD715nbuW2u8itu-6" target="vxX3c3MN7XvkiOVMZcCa-1" edge="1">
+        <mxCell id="DypBDRD715nbuW2u8itu-7" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.31;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DypBDRD715nbuW2u8itu-6" target="vxX3c3MN7XvkiOVMZcCa-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580.13" y="860" as="sourcePoint" />
             <mxPoint x="474.00087296526306" y="885.109127034737" as="targetPoint" />
@@ -245,6 +245,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="510" as="sourcePoint" />
             <mxPoint x="90" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnqkXdXQZxZC1t0hL9Ny-13" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(0 , 0 , 0)&quot;&gt;Une demande supprimée&amp;nbsp;&lt;br&gt;peut être restaurée&amp;nbsp;&lt;br&gt;en une nouvelle demande&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="870" y="850" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UnqkXdXQZxZC1t0hL9Ny-14" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#000000;entryX=0.978;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UnqkXdXQZxZC1t0hL9Ny-13" target="vxX3c3MN7XvkiOVMZcCa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="1040" as="sourcePoint" />
+            <mxPoint x="970" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
