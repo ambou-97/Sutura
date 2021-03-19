@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T19:42:59.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="PjSanYwvln_Qm7cXTjzm" version="14.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-19T19:44:16.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ZbKqj5qXUXAM8v4Twjm2" version="14.4.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1296" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3149" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -243,9 +243,6 @@
           <mxGeometry x="0.5" y="49" relative="1" as="geometry">
             <mxPoint x="61" y="-73" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Rp97zshGSxgJkGg2U5Pg-60" value="Après inscription, l&#39;administration étudie la demande puis après&lt;br&gt;validation, elle envoie le mot de passe à l&#39;email du&amp;nbsp;&lt;br&gt;concerné&lt;br&gt;l&#39;email reste le même" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="810" width="500" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Rp97zshGSxgJkGg2U5Pg-66" value="Media" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="1120" width="160" height="106" as="geometry">
@@ -537,9 +534,6 @@
           <mxGeometry x="0.5" y="49" relative="1" as="geometry">
             <mxPoint x="-80.04" y="-14.04" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="p-A0jTiGp4RKmFzM11kT-0" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;Les fonds de la caisse pour les prêts s&#39;élèvent à 90% de l&#39;ensemble des cotisations&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="660" y="120" width="925" height="167" as="geometry" />
         </mxCell>
         <mxCell id="zUReEBaiGzOVDlKuCkMj-6" value="don" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1988" y="200" width="160" height="130" as="geometry">
