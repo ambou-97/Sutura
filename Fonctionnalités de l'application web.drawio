@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T22:34:52.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cC3QvIaxBBUMKd3V47th" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T22:41:22.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2zDc6KWe5uO4ZpetTrS7" version="14.4.9" type="github">
   <diagram id="IibwhsUdMYKJf8pqr-UW" name="Page-1">
     <mxGraphModel dx="1502" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="271" y="1050" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-27" value="&lt;font style=&quot;font-size: 9px&quot; color=&quot;#ff0000&quot;&gt;Accepter les conditions générales d&#39;utilisation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="311.5" y="1050" width="190" height="20" as="geometry" />
+          <mxGeometry x="307" y="1050" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-28" value="Lire les conditions générales d&#39;utilisation-ceci est un lien qui fait ouvrir un autre onglet du navigateur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="501.5" y="1150" width="190" height="60" as="geometry" />
