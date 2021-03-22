@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T12:42:53.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8NhgkZkRZiBqnfNJQ7mj" version="14.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-22T12:43:45.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CC9nEFVoeP6C-4aaHS3h" version="14.4.9" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1745" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1929" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -386,7 +386,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rp97zshGSxgJkGg2U5Pg-124" value="Valider une déclaration ajoute l&#39;enregistrement&lt;br&gt;d&#39;une déclaration de remboursement&lt;br&gt;ou d&#39;une déclaration de&amp;nbsp;&lt;br&gt;cotisation" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="820" y="897" width="320" height="120" as="geometry" />
+          <mxGeometry x="827" y="570" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Rp97zshGSxgJkGg2U5Pg-130" value="" style="endArrow=open;shadow=0;strokeWidth=1;rounded=0;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--13" target="Rp97zshGSxgJkGg2U5Pg-51" edge="1">
           <mxGeometry x="0.5" y="41" relative="1" as="geometry">
@@ -486,7 +486,7 @@
           <mxGeometry x="10" y="190" width="340" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gZfIjVhXjQnh9mJ3TvMT-4" value="Il faut nécessairement avoir l&#39;attribut&amp;nbsp;&lt;br&gt;période car une personne peut avoir un prêt en fin&lt;br&gt;d&#39;année et payer l&#39;année suivante" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="980" y="1035" width="380" height="134" as="geometry" />
+          <mxGeometry x="1110" y="1090" width="380" height="134" as="geometry" />
         </mxCell>
         <mxCell id="CmLlIv_aRd70BPmKy3T8-0" value="Dépense" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="1001" width="160" height="154" as="geometry">
