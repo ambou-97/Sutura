@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T22:15:09.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CaFJ48HWb1ziQ3WefeB8" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T22:18:29.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dOsR2cmPQjYuhWz531N6" version="14.4.9" type="github">
   <diagram id="IibwhsUdMYKJf8pqr-UW" name="Page-1">
     <mxGraphModel dx="1252" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -524,16 +524,19 @@
         <mxCell id="pLTaCYsmvIqPrwOiqqX8-4" value="On se redirige dans la gestion automatique&amp;nbsp;&lt;br&gt;des prê" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="54" y="2610" width="370" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pLTaCYsmvIqPrwOiqqX8-6" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.539;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SDGDesWbccRSjYrfOrNV-196" target="SDGDesWbccRSjYrfOrNV-136">
+        <mxCell id="pLTaCYsmvIqPrwOiqqX8-6" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SDGDesWbccRSjYrfOrNV-196" target="SDGDesWbccRSjYrfOrNV-220">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="2190" as="sourcePoint" />
             <mxPoint x="440" y="2160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="2190" />
               <mxPoint x="380" y="2300" />
-              <mxPoint x="410" y="2370" />
+              <mxPoint x="470" y="2720" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pLTaCYsmvIqPrwOiqqX8-7" value="VOIR LA POSSIBILITE D&#39;AVOIR&lt;br&gt;UN SUPERADMIN&lt;br&gt;ou L&#39;UTILISATEUR &lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;0&lt;/font&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2550" width="250" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
