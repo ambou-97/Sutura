@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T22:10:54.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Ye-LBC3JEiT_jg0jPuP4" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T22:15:09.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CaFJ48HWb1ziQ3WefeB8" version="14.4.9" type="github">
   <diagram id="IibwhsUdMYKJf8pqr-UW" name="Page-1">
     <mxGraphModel dx="1252" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -400,25 +400,10 @@
         <mxCell id="SDGDesWbccRSjYrfOrNV-211" value="En cliquant, se dirige vers un tableau de bord très détaillé" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="2490" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SDGDesWbccRSjYrfOrNV-213" value="1- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2650" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SDGDesWbccRSjYrfOrNV-214" value="Demandes de prêts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2620" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SDGDesWbccRSjYrfOrNV-215" value="2- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2680" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SDGDesWbccRSjYrfOrNV-216" value="4- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2740" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SDGDesWbccRSjYrfOrNV-217" value="3- Prénom Nom du demandeur---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2710" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SDGDesWbccRSjYrfOrNV-219" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="SDGDesWbccRSjYrfOrNV-195" target="SDGDesWbccRSjYrfOrNV-214" edge="1">
+        <mxCell id="SDGDesWbccRSjYrfOrNV-219" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.459;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SDGDesWbccRSjYrfOrNV-195" target="pLTaCYsmvIqPrwOiqqX8-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="2380" as="sourcePoint" />
-            <mxPoint x="280" y="2330" as="targetPoint" />
+            <mxPoint x="295.7142857142858" y="2620" as="targetPoint" />
             <Array as="points">
               <mxPoint x="390" y="2440" />
               <mxPoint x="410" y="2600" />
@@ -535,6 +520,20 @@
         </mxCell>
         <mxCell id="pLTaCYsmvIqPrwOiqqX8-3" value="Ajouter une dépense" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="430" y="1990" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pLTaCYsmvIqPrwOiqqX8-4" value="On se redirige dans la gestion automatique&amp;nbsp;&lt;br&gt;des prê" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="54" y="2610" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pLTaCYsmvIqPrwOiqqX8-6" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.539;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SDGDesWbccRSjYrfOrNV-196" target="SDGDesWbccRSjYrfOrNV-136">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="2190" as="sourcePoint" />
+            <mxPoint x="440" y="2160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="2190" />
+              <mxPoint x="380" y="2300" />
+              <mxPoint x="410" y="2370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
