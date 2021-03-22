@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T22:18:29.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dOsR2cmPQjYuhWz531N6" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T22:22:19.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dnjSljVHbIznHtb75V_P" version="14.4.9" type="github">
   <diagram id="IibwhsUdMYKJf8pqr-UW" name="Page-1">
     <mxGraphModel dx="1252" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -464,7 +464,7 @@
         <mxCell id="6pL3NNsehdov1yfRttMt-7" value="DH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622.5" y="1590" width="27.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6pL3NNsehdov1yfRttMt-8" value="SuperAdmin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="6pL3NNsehdov1yfRttMt-8" value="Ajouter un remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="496" y="1990" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6pL3NNsehdov1yfRttMt-9" value="Cotisation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -503,8 +503,8 @@
         <mxCell id="Hya-TPy_c2ZP0WOWe1SL-6" value="4- Prénom Nom---------&lt;b&gt;Traiter&lt;/b&gt;-------&lt;b&gt;État&lt;/b&gt;------&lt;b&gt;Supprimer&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="101" y="3290" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hya-TPy_c2ZP0WOWe1SL-7" value="Ajouter une cotisation/&lt;br&gt;remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="340.5" y="1990" width="85" height="50" as="geometry" />
+        <mxCell id="Hya-TPy_c2ZP0WOWe1SL-7" value="Ajouter une cotisation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="336.5" y="1990" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EzgY_Jlq-dmY2WDkP3PC-1" value="Dépenses" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="95" y="2270" width="174" height="30" as="geometry" />
