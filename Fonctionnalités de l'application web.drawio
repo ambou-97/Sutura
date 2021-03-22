@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T17:14:32.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="7pbjROPZCbYO8Pdf3GaF" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T22:06:32.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="S8hI01rhiH81whm9LOP5" version="14.4.9" type="github">
   <diagram id="IibwhsUdMYKJf8pqr-UW" name="Page-1">
-    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1452" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,7 +301,7 @@
         <mxCell id="SDGDesWbccRSjYrfOrNV-168" value="Nombre de prêts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="2170" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SDGDesWbccRSjYrfOrNV-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#76608a;strokeColor=#432D57;" parent="1" source="SDGDesWbccRSjYrfOrNV-169" target="SDGDesWbccRSjYrfOrNV-206" edge="1">
+        <mxCell id="SDGDesWbccRSjYrfOrNV-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#76608a;strokeColor=#432D57;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SDGDesWbccRSjYrfOrNV-202" target="SDGDesWbccRSjYrfOrNV-206" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="2470" />
@@ -311,7 +311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-169" value="1-Ambroise Ngagne TINE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2340" width="220" height="30" as="geometry" />
+          <mxGeometry x="101" y="2370" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-170" value="Nombres de pays" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="2130" width="140" height="30" as="geometry" />
@@ -380,7 +380,7 @@
           <mxGeometry x="285" y="2070" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-197" value="Messagerie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="154" y="2270" width="170" height="30" as="geometry" />
+          <mxGeometry x="150" y="2310" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-198" value="0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="284" y="2190" width="40" height="30" as="geometry" />
@@ -389,19 +389,13 @@
           <mxGeometry x="597.5" y="1990" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-200" value="Equipe de gestion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2308" width="220" height="30" as="geometry" />
+          <mxGeometry x="101" y="2340" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-201" value="2-Papa Ousmane FAYE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2370" width="220" height="30" as="geometry" />
+          <mxGeometry x="101" y="2400" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-202" value="3-xxxxxxxxxxxxxxxxxxx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2400" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SDGDesWbccRSjYrfOrNV-203" value="4-xxxxxxxxxxxxxxxxxxx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2430" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SDGDesWbccRSjYrfOrNV-204" value="5-xxxxxxxxxxxxxxxxxxx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="2460" width="220" height="30" as="geometry" />
+          <mxGeometry x="101" y="2430" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-205" value="Afficher la liste complète" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="210" y="2490" width="110" height="30" as="geometry" />
@@ -533,10 +527,10 @@
         <mxCell id="Hya-TPy_c2ZP0WOWe1SL-7" value="Ajouter une cotisation/&lt;br&gt;remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="405" y="1990" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EzgY_Jlq-dmY2WDkP3PC-1" value="Retards de paiement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="EzgY_Jlq-dmY2WDkP3PC-1" value="Retards de paiement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="94" y="2230" width="174" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EzgY_Jlq-dmY2WDkP3PC-2" value="0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EzgY_Jlq-dmY2WDkP3PC-2" value="0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="284" y="2230" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
