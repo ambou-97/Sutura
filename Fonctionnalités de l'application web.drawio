@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T22:06:32.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="S8hI01rhiH81whm9LOP5" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T22:07:39.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ZCnAwpU7hEqE33CYDjAM" version="14.4.9" type="github">
   <diagram id="IibwhsUdMYKJf8pqr-UW" name="Page-1">
     <mxGraphModel dx="1452" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -527,11 +527,17 @@
         <mxCell id="Hya-TPy_c2ZP0WOWe1SL-7" value="Ajouter une cotisation/&lt;br&gt;remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="405" y="1990" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EzgY_Jlq-dmY2WDkP3PC-1" value="Retards de paiement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="94" y="2230" width="174" height="30" as="geometry" />
+        <mxCell id="EzgY_Jlq-dmY2WDkP3PC-1" value="Dépenses" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="95" y="2270" width="174" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EzgY_Jlq-dmY2WDkP3PC-2" value="0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="284" y="2230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pLTaCYsmvIqPrwOiqqX8-1" value="Retards de paiement" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="94" y="2230" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pLTaCYsmvIqPrwOiqqX8-2" value="0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="2270" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
