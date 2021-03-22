@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T22:07:39.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ZCnAwpU7hEqE33CYDjAM" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T22:10:54.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Ye-LBC3JEiT_jg0jPuP4" version="14.4.9" type="github">
   <diagram id="IibwhsUdMYKJf8pqr-UW" name="Page-1">
-    <mxGraphModel dx="1452" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1252" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,23 +274,20 @@
         <mxCell id="SDGDesWbccRSjYrfOrNV-136" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="75" y="1970" width="640" height="1480" as="geometry" />
         </mxCell>
-        <mxCell id="SDGDesWbccRSjYrfOrNV-138" value="Traitements" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="176" y="1990" width="66" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-139" value="Adhérents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="94" y="1990" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-140" value="Messagerie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="249" y="1990" width="70" height="30" as="geometry" />
+          <mxGeometry x="179" y="1990" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-141" value="Statistiques" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="324" y="1990" width="70" height="30" as="geometry" />
+          <mxGeometry x="260" y="1990" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-157" value="Tableau de bord" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="420" y="1390" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-165" value="Tableau de bord/Résumé" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="450" y="2050" width="230" height="30" as="geometry" />
+          <mxGeometry x="455" y="2050" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-166" value="Nombres d&#39;adhérents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="2090" width="174" height="30" as="geometry" />
@@ -378,9 +375,6 @@
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-196" value="6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="2070" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SDGDesWbccRSjYrfOrNV-197" value="Messagerie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="150" y="2310" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDGDesWbccRSjYrfOrNV-198" value="0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="284" y="2190" width="40" height="30" as="geometry" />
@@ -525,7 +519,7 @@
           <mxGeometry x="101" y="3290" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hya-TPy_c2ZP0WOWe1SL-7" value="Ajouter une cotisation/&lt;br&gt;remboursement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="405" y="1990" width="85" height="50" as="geometry" />
+          <mxGeometry x="340.5" y="1990" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EzgY_Jlq-dmY2WDkP3PC-1" value="Dépenses" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="95" y="2270" width="174" height="30" as="geometry" />
@@ -538,6 +532,9 @@
         </mxCell>
         <mxCell id="pLTaCYsmvIqPrwOiqqX8-2" value="0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="2270" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pLTaCYsmvIqPrwOiqqX8-3" value="Ajouter une dépense" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1990" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
